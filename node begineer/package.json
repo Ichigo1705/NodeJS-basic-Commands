@@ -1,0 +1,18 @@
+{
+  "name": "node-begineer",
+  "version": "1.0.0",
+  "description": "First Package",
+  "main": "ExpressBeginner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "YEs"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
